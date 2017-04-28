@@ -1,3 +1,0 @@
-/Users/dakshpatel/Documents/Rutgers/C/Asst3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/dakshpatel/Documents/Rutgers/C/Asst3/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/dakshpatel/Documents/Rutgers/C/Asst3/cmake-build-debug/CMakeFiles/Asst3.dir
